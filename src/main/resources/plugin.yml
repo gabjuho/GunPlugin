@@ -1,0 +1,5 @@
+name: GunPlugin
+description: make gun plugin
+main: com.gabjuho.gunplugin.GunPlugin
+version: 1.19
+api-version: 1.19
